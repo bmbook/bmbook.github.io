@@ -1,0 +1,474 @@
+[
+  {
+    "id": 1,
+    "answer": "ACD"
+  },
+  {
+    "id": 2,
+    "answer": "BD"
+  },
+  {
+    "id": 3,
+    "answer": "AC"
+  },
+  {
+    "id": 4,
+    "answer": "CD"
+  },
+  {
+    "id": 5,
+    "answer": "ABC"
+  },
+  {
+    "id": 6,
+    "answer": "BC"
+  },
+  {
+    "id": 7,
+    "answer": "AC"
+  },
+  {
+    "id": 8,
+    "answer": "BCD"
+  },
+  {
+    "id": 9,
+    "answer": "BCD"
+  },
+  {
+    "id": 10,
+    "answer": "ABC"
+  },
+  {
+    "id": 11,
+    "answer": "ABD"
+  },
+  {
+    "id": 12,
+    "answer": "BD"
+  },
+  {
+    "id": 13,
+    "answer": "BCD"
+  },
+  {
+    "id": 14,
+    "answer": "ABCD"
+  },
+  {
+    "id": 15,
+    "answer": "AB"
+  },
+  {
+    "id": 16,
+    "answer": "ABCD"
+  },
+  {
+    "id": 17,
+    "answer": "CD"
+  },
+  {
+    "id": 18,
+    "answer": "CD"
+  },
+  {
+    "id": 19,
+    "answer": "ABD"
+  },
+  {
+    "id": 20,
+    "answer": "ABCD"
+  },
+  {
+    "id": 21,
+    "answer": "ABC"
+  },
+  {
+    "id": 22,
+    "answer": "ABC"
+  },
+  {
+    "id": 23,
+    "answer": "ABCD"
+  },
+  {
+    "id": 24,
+    "answer": "ABCD"
+  },
+  {
+    "id": 25,
+    "answer": "ABC"
+  },
+  {
+    "id": 26,
+    "answer": "ABD"
+  },
+  {
+    "id": 27,
+    "answer": "ACD"
+  },
+  {
+    "id": 28,
+    "answer": "ABC"
+  },
+  {
+    "id": 29,
+    "answer": "ABCD"
+  },
+  {
+    "id": 30,
+    "answer": "AC"
+  },
+  {
+    "id": 31,
+    "answer": "ABC"
+  },
+  {
+    "id": 32,
+    "answer": "ABC"
+  },
+  {
+    "id": 33,
+    "answer": "ABD"
+  },
+  {
+    "id": 34,
+    "answer": "ABD"
+  },
+  {
+    "id": 35,
+    "answer": "BCD"
+  },
+  {
+    "id": 36,
+    "answer": "ABCD"
+  },
+  {
+    "id": 37,
+    "answer": ""
+  },
+  {
+    "id": 38,
+    "answer": "AD"
+  },
+  {
+    "id": 39,
+    "answer": "BC"
+  },
+  {
+    "id": 40,
+    "answer": "ABCD"
+  },
+  {
+    "id": 41,
+    "answer": "ABCD"
+  },
+  {
+    "id": 42,
+    "answer": "ABD"
+  },
+  {
+    "id": 43,
+    "answer": "BCD"
+  },
+  {
+    "id": 44,
+    "answer": "BD"
+  },
+  {
+    "id": 45,
+    "answer": "ABC"
+  },
+  {
+    "id": 46,
+    "answer": "AB"
+  },
+  {
+    "id": 47,
+    "answer": "ABCD"
+  },
+  {
+    "id": 48,
+    "answer": "ABCD"
+  },
+  {
+    "id": 49,
+    "answer": "ABD"
+  },
+  {
+    "id": 50,
+    "answer": "ABCD"
+  },
+  {
+    "id": 51,
+    "answer": "ABCD"
+  },
+  {
+    "id": 52,
+    "answer": "ABCD"
+  },
+  {
+    "id": 53,
+    "answer": "ABCD"
+  },
+  {
+    "id": 54,
+    "answer": "AC"
+  },
+  {
+    "id": 55,
+    "answer": "BCD"
+  },
+  {
+    "id": 56,
+    "answer": "ABD"
+  },
+  {
+    "id": 57,
+    "answer": "ACD"
+  },
+  {
+    "id": 58,
+    "answer": "AB"
+  },
+  {
+    "id": 59,
+    "answer": "ACD"
+  },
+  {
+    "id": 60,
+    "answer": "ABC"
+  },
+  {
+    "id": 61,
+    "answer": "AC"
+  },
+  {
+    "id": 62,
+    "answer": "AB"
+  },
+  {
+    "id": 63,
+    "answer": "ABC"
+  },
+  {
+    "id": 64,
+    "answer": "BCD"
+  },
+  {
+    "id": 65,
+    "answer": "ABCD"
+  },
+  {
+    "id": 66,
+    "answer": "AD"
+  },
+  {
+    "id": 67,
+    "answer": "ABC"
+  },
+  {
+    "id": 68,
+    "answer": "ABC"
+  },
+  {
+    "id": 69,
+    "answer": "CD"
+  },
+  {
+    "id": 70,
+    "answer": "ABCD"
+  },
+  {
+    "id": 71,
+    "answer": "ABD"
+  },
+  {
+    "id": 72,
+    "answer": "CD"
+  },
+  {
+    "id": 73,
+    "answer": "ABD"
+  },
+  {
+    "id": 74,
+    "answer": "AC"
+  },
+  {
+    "id": 75,
+    "answer": "AB"
+  },
+  {
+    "id": 76,
+    "answer": "ABCD"
+  },
+  {
+    "id": 77,
+    "answer": "BC"
+  },
+  {
+    "id": 78,
+    "answer": "CD"
+  },
+  {
+    "id": 79,
+    "answer": "ABCD"
+  },
+  {
+    "id": 80,
+    "answer": "ABD"
+  },
+  {
+    "id": 81,
+    "answer": "ABCD"
+  },
+  {
+    "id": 82,
+    "answer": "ABC"
+  },
+  {
+    "id": 83,
+    "answer": "ABCD"
+  },
+  {
+    "id": 84,
+    "answer": "BCD"
+  },
+  {
+    "id": 85,
+    "answer": "ABCD"
+  },
+  {
+    "id": 86,
+    "answer": "CD"
+  },
+  {
+    "id": 87,
+    "answer": "AD"
+  },
+  {
+    "id": 88,
+    "answer": "AB"
+  },
+  {
+    "id": 89,
+    "answer": "AC"
+  },
+  {
+    "id": 90,
+    "answer": "AC"
+  },
+  {
+    "id": 91,
+    "answer": "BC"
+  },
+  {
+    "id": 92,
+    "answer": "BCD"
+  },
+  {
+    "id": 93,
+    "answer": "BCD"
+  },
+  {
+    "id": 94,
+    "answer": "ABCD"
+  },
+  {
+    "id": 95,
+    "answer": "ABC"
+  },
+  {
+    "id": 96,
+    "answer": "BCD"
+  },
+  {
+    "id": 97,
+    "answer": "ABD"
+  },
+  {
+    "id": 98,
+    "answer": "ACD"
+  },
+  {
+    "id": 99,
+    "answer": ""
+  },
+  {
+    "id": 100,
+    "answer": "ABCD"
+  },
+  {
+    "id": 101,
+    "answer": "CD"
+  },
+  {
+    "id": 102,
+    "answer": ""
+  },
+  {
+    "id": 103,
+    "answer": ""
+  },
+  {
+    "id": 104,
+    "answer": "BCD"
+  },
+  {
+    "id": 105,
+    "answer": "ACD"
+  },
+  {
+    "id": 106,
+    "answer": "ABDE"
+  },
+  {
+    "id": 107,
+    "answer": "AC"
+  },
+  {
+    "id": 108,
+    "answer": ""
+  },
+  {
+    "id": 109,
+    "answer": "ACD"
+  },
+  {
+    "id": 110,
+    "answer": "ABC"
+  },
+  {
+    "id": 111,
+    "answer": "AB"
+  },
+  {
+    "id": 112,
+    "answer": "AD"
+  },
+  {
+    "id": 113,
+    "answer": "ACD"
+  },
+  {
+    "id": 114,
+    "answer": "ABE"
+  },
+  {
+    "id": 115,
+    "answer": "ABCE"
+  },
+  {
+    "id": 116,
+    "answer": "ABD"
+  },
+  {
+    "id": 117,
+    "answer": "ABCD"
+  },
+  {
+    "id": 118,
+    "answer": "ABC"
+  }
+]

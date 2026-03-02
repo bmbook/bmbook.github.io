@@ -1,0 +1,630 @@
+[
+  {
+    "id": 1,
+    "answer": "C"
+  },
+  {
+    "id": 2,
+    "answer": "D"
+  },
+  {
+    "id": 3,
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "answer": "D"
+  },
+  {
+    "id": 8,
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "answer": "A"
+  },
+  {
+    "id": 10,
+    "answer": "B"
+  },
+  {
+    "id": 11,
+    "answer": "C"
+  },
+  {
+    "id": 12,
+    "answer": "D"
+  },
+  {
+    "id": 13,
+    "answer": "D"
+  },
+  {
+    "id": 14,
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "answer": "C"
+  },
+  {
+    "id": 16,
+    "answer": "C"
+  },
+  {
+    "id": 17,
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "answer": "C"
+  },
+  {
+    "id": 20,
+    "answer": "C"
+  },
+  {
+    "id": 21,
+    "answer": "C"
+  },
+  {
+    "id": 22,
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "answer": "C"
+  },
+  {
+    "id": 24,
+    "answer": "A"
+  },
+  {
+    "id": 25,
+    "answer": "C"
+  },
+  {
+    "id": 26,
+    "answer": "A"
+  },
+  {
+    "id": 27,
+    "answer": "A"
+  },
+  {
+    "id": 28,
+    "answer": "A"
+  },
+  {
+    "id": 29,
+    "answer": "C"
+  },
+  {
+    "id": 30,
+    "answer": "C"
+  },
+  {
+    "id": 31,
+    "answer": "C"
+  },
+  {
+    "id": 32,
+    "answer": "C"
+  },
+  {
+    "id": 33,
+    "answer": "B"
+  },
+  {
+    "id": 34,
+    "answer": "A"
+  },
+  {
+    "id": 35,
+    "answer": "C"
+  },
+  {
+    "id": 36,
+    "answer": "B"
+  },
+  {
+    "id": 37,
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "answer": "C"
+  },
+  {
+    "id": 39,
+    "answer": "A"
+  },
+  {
+    "id": 40,
+    "answer": "D"
+  },
+  {
+    "id": 41,
+    "answer": "A"
+  },
+  {
+    "id": 42,
+    "answer": "D"
+  },
+  {
+    "id": 43,
+    "answer": "B"
+  },
+  {
+    "id": 44,
+    "answer": "C"
+  },
+  {
+    "id": 45,
+    "answer": "A"
+  },
+  {
+    "id": 46,
+    "answer": "C"
+  },
+  {
+    "id": 47,
+    "answer": "C"
+  },
+  {
+    "id": 48,
+    "answer": "B"
+  },
+  {
+    "id": 49,
+    "answer": "C"
+  },
+  {
+    "id": 50,
+    "answer": "A"
+  },
+  {
+    "id": 51,
+    "answer": "B"
+  },
+  {
+    "id": 52,
+    "answer": "C"
+  },
+  {
+    "id": 53,
+    "answer": "C"
+  },
+  {
+    "id": 54,
+    "answer": ""
+  },
+  {
+    "id": 55,
+    "answer": ""
+  },
+  {
+    "id": 56,
+    "answer": ""
+  },
+  {
+    "id": 57,
+    "answer": ""
+  },
+  {
+    "id": 58,
+    "answer": ""
+  },
+  {
+    "id": 59,
+    "answer": ""
+  },
+  {
+    "id": 60,
+    "answer": "A"
+  },
+  {
+    "id": 61,
+    "answer": "D"
+  },
+  {
+    "id": 62,
+    "answer": "C"
+  },
+  {
+    "id": 63,
+    "answer": "A"
+  },
+  {
+    "id": 64,
+    "answer": "A"
+  },
+  {
+    "id": 65,
+    "answer": "D"
+  },
+  {
+    "id": 66,
+    "answer": "D"
+  },
+  {
+    "id": 67,
+    "answer": "D"
+  },
+  {
+    "id": 68,
+    "answer": "C"
+  },
+  {
+    "id": 69,
+    "answer": "A"
+  },
+  {
+    "id": 70,
+    "answer": "A"
+  },
+  {
+    "id": 71,
+    "answer": "D"
+  },
+  {
+    "id": 72,
+    "answer": "A"
+  },
+  {
+    "id": 73,
+    "answer": "D"
+  },
+  {
+    "id": 74,
+    "answer": "A"
+  },
+  {
+    "id": 75,
+    "answer": "C"
+  },
+  {
+    "id": 76,
+    "answer": "D"
+  },
+  {
+    "id": 77,
+    "answer": "A"
+  },
+  {
+    "id": 78,
+    "answer": "A"
+  },
+  {
+    "id": 79,
+    "answer": "D"
+  },
+  {
+    "id": 80,
+    "answer": "C"
+  },
+  {
+    "id": 81,
+    "answer": "C"
+  },
+  {
+    "id": 82,
+    "answer": "B"
+  },
+  {
+    "id": 83,
+    "answer": "D"
+  },
+  {
+    "id": 84,
+    "answer": "B"
+  },
+  {
+    "id": 85,
+    "answer": "A"
+  },
+  {
+    "id": 86,
+    "answer": "D"
+  },
+  {
+    "id": 87,
+    "answer": "C"
+  },
+  {
+    "id": 88,
+    "answer": "D"
+  },
+  {
+    "id": 89,
+    "answer": "B"
+  },
+  {
+    "id": 90,
+    "answer": "B"
+  },
+  {
+    "id": 91,
+    "answer": "A"
+  },
+  {
+    "id": 92,
+    "answer": "A"
+  },
+  {
+    "id": 93,
+    "answer": "D"
+  },
+  {
+    "id": 94,
+    "answer": "B"
+  },
+  {
+    "id": 95,
+    "answer": "C"
+  },
+  {
+    "id": 96,
+    "answer": "A"
+  },
+  {
+    "id": 97,
+    "answer": "A"
+  },
+  {
+    "id": 98,
+    "answer": "A"
+  },
+  {
+    "id": 99,
+    "answer": "A"
+  },
+  {
+    "id": 100,
+    "answer": "C"
+  },
+  {
+    "id": 101,
+    "answer": "D"
+  },
+  {
+    "id": 102,
+    "answer": "D"
+  },
+  {
+    "id": 103,
+    "answer": "B"
+  },
+  {
+    "id": 104,
+    "answer": "D"
+  },
+  {
+    "id": 105,
+    "answer": "D"
+  },
+  {
+    "id": 106,
+    "answer": "B"
+  },
+  {
+    "id": 107,
+    "answer": "B"
+  },
+  {
+    "id": 108,
+    "answer": "BD"
+  },
+  {
+    "id": 109,
+    "answer": "ABCD"
+  },
+  {
+    "id": 110,
+    "answer": "ABC"
+  },
+  {
+    "id": 111,
+    "answer": "AB"
+  },
+  {
+    "id": 112,
+    "answer": "ABCD"
+  },
+  {
+    "id": 113,
+    "answer": "ACD"
+  },
+  {
+    "id": 114,
+    "answer": "CD"
+  },
+  {
+    "id": 115,
+    "answer": "ABCD"
+  },
+  {
+    "id": 116,
+    "answer": "ABCD"
+  },
+  {
+    "id": 117,
+    "answer": "AB"
+  },
+  {
+    "id": 118,
+    "answer": "BCD"
+  },
+  {
+    "id": 119,
+    "answer": "ACD"
+  },
+  {
+    "id": 120,
+    "answer": "ABCD"
+  },
+  {
+    "id": 121,
+    "answer": "CD"
+  },
+  {
+    "id": 122,
+    "answer": "ABCD"
+  },
+  {
+    "id": 123,
+    "answer": "ABCD"
+  },
+  {
+    "id": 124,
+    "answer": "BCD"
+  },
+  {
+    "id": 125,
+    "answer": "A"
+  },
+  {
+    "id": 126,
+    "answer": "A"
+  },
+  {
+    "id": 127,
+    "answer": "B"
+  },
+  {
+    "id": 128,
+    "answer": "D"
+  },
+  {
+    "id": 129,
+    "answer": "A"
+  },
+  {
+    "id": 130,
+    "answer": "C"
+  },
+  {
+    "id": 131,
+    "answer": "A"
+  },
+  {
+    "id": 132,
+    "answer": "C"
+  },
+  {
+    "id": 133,
+    "answer": "B"
+  },
+  {
+    "id": 134,
+    "answer": "D"
+  },
+  {
+    "id": 135,
+    "answer": "A"
+  },
+  {
+    "id": 136,
+    "answer": "A"
+  },
+  {
+    "id": 137,
+    "answer": "C"
+  },
+  {
+    "id": 138,
+    "answer": "B"
+  },
+  {
+    "id": 139,
+    "answer": "A"
+  },
+  {
+    "id": 140,
+    "answer": "D"
+  },
+  {
+    "id": 141,
+    "answer": "A"
+  },
+  {
+    "id": 142,
+    "answer": "D"
+  },
+  {
+    "id": 143,
+    "answer": "D"
+  },
+  {
+    "id": 144,
+    "answer": "D"
+  },
+  {
+    "id": 145,
+    "answer": "D"
+  },
+  {
+    "id": 146,
+    "answer": "A"
+  },
+  {
+    "id": 147,
+    "answer": "C"
+  },
+  {
+    "id": 148,
+    "answer": "A"
+  },
+  {
+    "id": 149,
+    "answer": "B"
+  },
+  {
+    "id": 150,
+    "answer": "A"
+  },
+  {
+    "id": 151,
+    "answer": "B"
+  },
+  {
+    "id": 152,
+    "answer": "B"
+  },
+  {
+    "id": 153,
+    "answer": "A"
+  },
+  {
+    "id": 154,
+    "answer": "C"
+  },
+  {
+    "id": 155,
+    "answer": "B"
+  },
+  {
+    "id": 156,
+    "answer": "A"
+  },
+  {
+    "id": 157,
+    "answer": "B"
+  }
+]
