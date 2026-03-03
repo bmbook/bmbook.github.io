@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /#/pages/mine/
+Allow: /
+
+# 将 Sitemap 地址替换为实际 GitHub Pages 地址
+Sitemap: https://bmbook.github.io/sitemap.xml
