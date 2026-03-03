@@ -1,0 +1,1 @@
+const e={fill_in_blank:"填空题",single_choice:"单选题",multiple_choice:"多选题",judgement:"判断题",short_answer:"简答题"},i={fill_in_blank:"#FF9800",single_choice:"#E8505B",multiple_choice:"#9C27B0",judgement:"#4CAF50",short_answer:"#2196F3"},l={fill_in_blank:303,single_choice:157,multiple_choice:118,judgement:501,short_answer:68};export{e as Q,i as a,l as b};
