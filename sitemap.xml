@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- 请将 "<loc>" 中的 URL 替换为你 GitHub Pages 实际环境部署的基础地址 -->
   <url>
     <loc>https://bmbook.github.io/pages/practice/index</loc>
     <changefreq>daily</changefreq>
